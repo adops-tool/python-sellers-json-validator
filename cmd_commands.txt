@@ -1,0 +1,2 @@
+pip install aiodns
+python find_sellers.py
